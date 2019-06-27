@@ -1,0 +1,14 @@
+name: NNCraft
+version: 1.0-ALPHA
+api-version: 1.13.2
+author: Conji
+main: me.conji.nncraft.NNCraft
+commands:
+  nncraft:
+    permission: nncraft.info
+    description: Returns info about NNCraft's statistics and data
+    usage: /<command>
+    aliases:
+      - nn
+      - nnc
+      - penis
